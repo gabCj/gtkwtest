@@ -1,0 +1,7 @@
+{
+  "name":"toolchain-gtkwave",
+  "description":"gtkwave executable",
+  "url":"https://gitlab.com/push-esp/inf8970/-/tree/platformio",
+  "version": "3.1.104",
+  "system": "linux_x86_64"
+}
